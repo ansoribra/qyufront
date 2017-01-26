@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  dataserve: 'http://31.220.54.100',
 };
